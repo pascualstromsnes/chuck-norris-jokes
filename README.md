@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pascualstromsnes/chuck-norris-jokes.svg?branch=master)](https://travis-ci.org/pascualstromsnes/chuck-norris-jokes)
+
 # Chuck Norris Jokes
 
 Create Chuck Norris jokes in your next PHP project.
